@@ -1,0 +1,55 @@
+#body {
+	background-color: #001d3d;
+	z-index: 20;
+	color: #ffb703;
+}
+
+#header-div {
+	margin-top: 5rem;
+  background-color: #001d3d;
+}
+
+
+#title {
+	padding: 2em;
+/*	margin-left: 3em;*/
+}
+
+#html {
+	width: 7rem;
+}
+
+#css {
+	width: 5rem;
+}
+
+#dreamweaver {
+	width: 7rem;
+}
+
+
+#skills-sec {
+	margin-bottom: 2rem;
+}
+
+#offcanvas-header {
+	background-color: #001d3d;
+}
+
+#offcanvas-body {
+	background-color: #ffb703;
+}
+
+.pic-descrip {
+	font-size: .8em; 
+}
+
+#modal-content {
+	background-color: #001d3d;
+}
+
+.nav-item:hover {
+  background-color: rgba(0, 0, 0, 0.3);
+  border-radius: 5px;
+  transform: translateX(-1px);
+}
